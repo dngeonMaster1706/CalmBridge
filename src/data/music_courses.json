@@ -1,0 +1,105 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Mindfulness Fundamentals",
+        "slug": "mindfulness-fundamentals",
+        "description": "Learn the basics of mindfulness with our comprehensive beginner's course.",
+        "price": 99.99,
+        "instructor": "John Doe",
+        "isFeatured": true,
+        "image": "/courses/mindfulness.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Introduction to Meditation",
+        "slug": "introduction-to-meditation",
+        "description": "Start your journey with foundational meditation skills taught by expert instructors.",
+        "price": 109.99,
+        "instructor": "Jane Smith",
+        "isFeatured": false,
+        "image": "/courses/meditation.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Advanced Stress Management",
+        "slug": "advanced-stress-management",
+        "description": "Enhance your well-being with advanced stress management techniques for intermediate to advanced learners.",
+        "price": 119.99,
+        "instructor": "Emily Johnson",
+        "isFeatured": true,
+        "image": "/courses/stress-management.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Emotional Intelligence Mastery",
+        "slug": "emotional-intelligence-mastery",
+        "description": "Master emotional intelligence with our comprehensive course covering all skill levels.",
+        "price": 129.99,
+        "instructor": "Mike Brown",
+        "isFeatured": false,
+        "image": "/courses/emotional-intelligence.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Cognitive Behavioral Therapy (CBT) Basics",
+        "slug": "cbt-basics",
+        "description": "Learn the basics of Cognitive Behavioral Therapy with this course designed for all levels.",
+        "price": 139.99,
+        "instructor": "Chris Davis",
+        "isFeatured": false,
+        "image": "/courses/cbt.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Mental Wellness Fundamentals",
+        "slug": "mental-wellness-fundamentals",
+        "description": "Dive into mental wellness with this introductory course on the basics of mental health and self-care.",
+        "price": 149.99,
+        "instructor": "Alex Wilson",
+        "isFeatured": true,
+        "image": "/courses/mental-wellness.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Resilience Building Essentials",
+        "slug": "resilience-building-essentials",
+        "description": "Learn the essentials of building resilience to better handle life's challenges.",
+        "price": 159.99,
+        "instructor": "Samantha Miller",
+        "isFeatured": false,
+        "image": "/courses/resilience.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Focus Enhancement Techniques",
+        "slug": "focus-enhancement-techniques",
+        "description": "Improve your focus with techniques designed for beginners to advanced users.",
+        "price": 169.99,
+        "instructor": "Luke Harris",
+        "isFeatured": true,
+        "image": "/courses/focus.jpg"
+    },
+    {
+        "id": 9,
+        "title": "History of Mindfulness Practices",
+        "slug": "history-of-mindfulness",
+        "description": "Explore the rich history of mindfulness practices from their origins to the present day.",
+        "price": 179.99,
+        "instructor": "Grace Lee",
+        "isFeatured": false,
+        "image": "/courses/mindfulness-history.jpg"
+    },
+    {
+        "id": 10,
+        "title": "Positive Psychology Techniques",
+        "slug": "positive-psychology-techniques",
+        "description": "Discover the techniques of positive psychology to add well-being and happiness to your life.",
+        "price": 189.99,
+        "instructor": "Ethan Moore",
+        "isFeatured": true,
+        "image": "/courses/positive-psychology.jpg"
+    }
+    ]
+  }
+  
