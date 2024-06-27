@@ -21,7 +21,7 @@ function Navbar({ className }: { className?: string }){
                 <HoveredLink href="/courses">Mindfulness</HoveredLink>
                 <HoveredLink href="/courses">Anxiety Relief</HoveredLink>
                 <HoveredLink href="/courses">Emotional Wellbeing</HoveredLink>
-                <HoveredLink href="/courses">NEET PG</HoveredLink>
+                
                 <HoveredLink href="/courses">Mental Resilience</HoveredLink>
                 
                 </div>
