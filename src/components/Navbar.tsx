@@ -16,13 +16,13 @@ function Navbar({ className }: { className?: string }){
                 </MenuItem>
             </Link>
                 
-                <MenuItem setActive={setActive} active={active} item="courses">
+                <MenuItem setActive={setActive} active={active} item="Blogs">
                 <div className="flex flex-col space-y-4 text-sm">
-                <HoveredLink href="/courses">JEE MAINS</HoveredLink>
-                <HoveredLink href="/courses">JEE ADVANCE</HoveredLink>
-                <HoveredLink href="/courses">NEET UG</HoveredLink>
+                <HoveredLink href="/courses">Mindfulness</HoveredLink>
+                <HoveredLink href="/courses">Anxiety Relief</HoveredLink>
+                <HoveredLink href="/courses">Emotional Wellbeing</HoveredLink>
                 <HoveredLink href="/courses">NEET PG</HoveredLink>
-                <HoveredLink href="/courses">CAT</HoveredLink>
+                <HoveredLink href="/courses">Mental Resilience</HoveredLink>
                 
                 </div>
                 </MenuItem>
